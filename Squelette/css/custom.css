@@ -1,10 +1,35 @@
 /* Vos customisations des classes de Bootstrap */
-.nav-link{
+.nav-link, h1{
     font-family: Arvo;
 }
 
+#home {
+    background-image:url(../images/hero-image.jpg);
+}
 
+h1{
+    font-size: 50px;
+}
 
+.btn-danger{
+    font-size: 30px;
+}
+
+.fw-light{
+    font-size: 18px;
+}
+
+span {
+    color: red;
+}
+
+.underlineWidth{
+    width: 150px;
+}
+
+.fs-1{
+    font-size: 30px;
+}
 
 /* Responsive Styling */
 
