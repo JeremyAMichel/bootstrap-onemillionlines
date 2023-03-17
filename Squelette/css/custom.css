@@ -1,5 +1,5 @@
 /* Vos customisations des classes de Bootstrap */
-.nav-link, h1{
+.nav-link, h1, h2, h3{
     font-family: Arvo;
 }
 
@@ -15,8 +15,9 @@ h1{
     font-size: 30px;
 }
 
-.fw-light{
+.fs-custom{
     font-size: 18px;
+    font-weight: 500;
 }
 
 span {
@@ -29,6 +30,27 @@ span {
 
 .fs-1{
     font-size: 30px;
+}
+
+.fs-2{
+    font-size: 25px;
+}
+
+.icon-custom2 svg{
+    fill: white;
+    background-color: black;
+}
+
+svg{
+    width: 100px;
+    height: auto;
+}
+
+.icon-bg{
+    border-radius: 100%;
+    background-color: black;
+    width: 150px;
+    height: 150px;
 }
 
 /* Responsive Styling */
