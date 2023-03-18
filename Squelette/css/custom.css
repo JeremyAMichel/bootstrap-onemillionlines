@@ -85,5 +85,16 @@ footer{
 }
 
 @media (max-width: 767px) {
+    .fs-1{
+        font-size: 30px;
+    }
 
+    .container{
+        max-width: none;
+    }
+
+    .bottom-brand{
+        width: 80%;
+        height: auto;
+    }
 }
