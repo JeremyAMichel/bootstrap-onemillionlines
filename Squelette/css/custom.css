@@ -7,17 +7,13 @@
     background-image:url(../images/hero-image.jpg);
 }
 
-h1{
-    font-size: 50px;
-}
-
 .btn-danger{
     font-size: 30px;
 }
 
 .fs-custom{
-    font-size: 18px;
-    font-weight: 500;
+    font-size: 20px;
+    /* font-weight: 500; */
 }
 
 span {
@@ -29,28 +25,53 @@ span {
 }
 
 .fs-1{
-    font-size: 30px;
+    font-size: 50px;
 }
 
 .fs-2{
-    font-size: 25px;
+    font-size: 30px;
+}
+
+.fs-3{
+    font-size: 30px;
 }
 
 .icon-custom2 svg{
     fill: white;
-    background-color: black;
 }
 
 svg{
-    width: 100px;
+    width: 40px;
     height: auto;
 }
 
 .icon-bg{
     border-radius: 100%;
     background-color: black;
-    width: 150px;
-    height: 150px;
+    width: 90px;
+    height: 90px;
+}
+
+.navbar-dark{
+    background-color: black;
+}
+
+#get-involved{
+    background-color: rgb(236, 236, 236);
+}
+
+.text-danger{
+    color: #e74c3c!important;
+}
+
+.custom-btn{
+    color: #e74c3c!important;
+    border: 2px solid lightgrey;
+}
+
+footer{
+    background-color: #e74c3c;
+    
 }
 
 /* Responsive Styling */
