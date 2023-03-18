@@ -1,4 +1,8 @@
 /* Vos customisations des classes de Bootstrap */
+/* html {
+    scroll-behavior: smooth;
+} */
+
 .nav-link, h1, h2, h3{
     font-family: Arvo;
 }
