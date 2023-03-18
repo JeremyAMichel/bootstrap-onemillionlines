@@ -84,6 +84,12 @@ footer{
     font-size: 20px;
 }
 
+#back-to-top{
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+}
+
 /* Responsive Styling */
 
 @media (max-width: 1199px) {
